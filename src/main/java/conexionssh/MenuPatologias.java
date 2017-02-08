@@ -44,6 +44,8 @@ public class MenuPatologias {
 		break;
 		}
 		
+		//intento 2
+		
 		
 	
 	}
